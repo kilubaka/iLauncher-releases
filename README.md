@@ -1,6 +1,6 @@
 # iLauncher releases
 
-Signed builds of [iLauncher](https://github.com/kilubaka/iLauncher), a minimalist, security-first Android launcher.
+Builds of [iLauncher](https://github.com/kilubaka/iLauncher), a minimalist, security-first Android launcher.
 
 The source lives in the main repository. This repository only holds the downloadable versions, so the launcher (and you)
 can find the newest one without needing access to the source.
